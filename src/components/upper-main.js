@@ -36,9 +36,7 @@ const UpperMain =()=>{
 
                                 <p>
                                 Jennifer Fahie the Author of The Essence of Life (Poetry and Life in Motion) parts 1 and 2. A proud mother of 3 wonderful children Conrad, Clifford, and Chamara Fahie. 
-                                Jennifer Fahie was born on the Island of Anguilla but at the age of six she migrated to Saint Thomas U.S Virgin Islands. Jennifer Fahie went from a Junior A level in the British to a third grade level at the 
-                                Seventh Day Adventist School. From there her journey was on to Madison Elementary School and then at Nazareth Bay High School where she graduated in 1978. Upon graduating she thought about 
-                                the schools and furthering my education so she took some courses at The College of the Virgin Islands but before completing she joined the US Army and deployed to Europe.
+                                Jennifer Fahie was born on the Island of Anguilla but at the age of six she migrated to Saint Thomas U.S Virgin Islands...
                                 </p>
 
                                 <button>

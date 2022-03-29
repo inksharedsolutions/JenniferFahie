@@ -43,18 +43,29 @@ const ATB = (props) => {
                                 id: 'the_gifted_one',
                                 content:    
                                     `
-                                    It is with such faith-filled words such as these in "A Friend" that Jennifer A. Fahie invites us to examine our own faith in this heartfelt collection of evocative poetry.
-                                    
-                                    She goes on a step further in "Consequences" and shares her thoughts on the violent and crime-ridden society that seems to surround us today:
+                                    When you are in your darkest hour, 
+
+                                    Always remember to give God the power, 
+
+                                    When the road is rough and dry, 
+
+                                    Look up to the savior on high 
 
 
-                                    They shouldn't let you pay a dime!
 
-                                    Your punishment should fit the crime.
+                                    It is with such faith-filled words such as these in "A Friend" that Jennifer A. Fahie invites us to examine our own faith in this heartfelt collection of evocative poetry. 
 
-                                    For every action
+                                    She goes on a step further in "Consequences" and shares her thoughts on the violent and crime-ridden society that seems to surround us today: 
 
-                                    There is a reaction.
+
+
+                                    They shouldn't let you pay a dime! 
+
+                                    Your punishment should fit the crime. 
+
+                                    For every action 
+
+                                    There is a reaction. 
 
 
 
@@ -63,12 +74,12 @@ const ATB = (props) => {
                                 ebooks: {
                                     stratton: '',
                                     barnes: '',
-                                    amazon: 'https://www.amazon.com/Seven-Islands-Fog-Thomas-Terraforte-ebook/dp/B08Q6QJWTF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1608675204&sr=8-1',
+                                    amazon: 'https://www.amazon.com/Essence-Life-Poetry-Motion-ebook/dp/B09HXY273K/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1634323913&sr=8-1',
                                 },
                                 paperback: {
-                                    amazon: '',
-                                    barnes: 'https://www.barnesandnoble.com/w/seven-islands-of-the-fog-thomas-terraforte/1121892486?ean=9781648952920',
-                                    booksamillion: 'https://www.booksamillion.com/p/Seven-Islands-Fog/Thomas-Terraforte/9781648952920?id=8158356429268',
+                                    amazon: 'https://www.amazon.com/Essence-Life-Poetry-Motion/dp/1648954804/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1634323913&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/essence-of-life-jennifer-fahie/1140593205?ean=9781648954801',
+                                    booksamillion: 'https://www.booksamillion.com/p/Essence-Life/Jennifer-Fahie/9781648954801?id=8158356429268',
                                 },
                             }}
                         />
@@ -76,30 +87,30 @@ const ATB = (props) => {
                             <BookInfo
                             data={{
                                 title: `Essence of Life: Poetry & Life in Motion II`,
-                                spanTitle: 'A Human Story',
+                                spanTitle: '',
                                 imgSrc: Book2,
                                 id: 'the_gifted_one',
                                 content:
                                     `
-                                    This book takes you on the journey of my life. These poems are reflections of various situations that you may or may not personally encounter.
+                                    This book takes you on the journey of my life. These poems are reflections of various situations that you may or may not personally encounter.  
 
 
 
-I strive to take you with me on these adventures as we experience love, prejudice, hate, and war-just to name a few.
-
-
-
-My goal is to share with you my experience and encourage you to use them as motivation to continue your journey. Don't sit and cry about the things you have been through. Instead, look back, laugh, and reflect on what you have learned and how you have grown. It is not about what you did or did not do, it's about how you pick yourself up and push to be better than you were the day before. Enjoy and stay tuned for part 2.
+                                    I strive to take you with me on these adventures as we experience love, prejudice, hate, and war-just to name a few.  
+                                    
+                                    
+                                    
+                                    My goal is to share with you my experience and encourage you to use them as motivation to continue your journey. Don't sit and cry about the things you have been through. Instead, look back, laugh, and reflect on what you have learned and how you have grown. It is not about what you did or did not do, it's about how you pick yourself up and push to be better than you were the day before. Enjoy and stay tuned for part 2.
                                     `,
                                 ebooks: {
                                     stratton: '',
-                                    barnes: 'https://www.barnesandnoble.com/w/human-angels-thomas-terraforte/1140316545?ean=9781648955655',
-                                    amazon: 'https://www.amazon.com/Human-Angels-Story-Thomas-Terraforte-ebook/dp/B09HXYQ6F6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1634323651&sr=8-1',
+                                    barnes: '',
+                                    amazon: 'https://www.amazon.com/Essence-Life-Poetry-Motion-II-ebook/dp/B09HXXPSGN/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1634323890&sr=8-1',
                                 },
                                 paperback: {
-                                    amazon: 'https://www.amazon.com/Human-Angels-Story-Thomas-Terraforte/dp/1648955649/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1634323651&sr=8-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/human-angels-thomas-terraforte/1140316545?ean=9781648955648',
-                                    booksamillion: 'https://www.booksamillion.com/p/Human-Angels/Thomas-Terraforte/9781648955648?id=8158356429268',
+                                    amazon: 'https://www.amazon.com/Essence-Life-Poetry-Motion-II/dp/1648955908/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1634323890&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/essence-of-life-jennifer-fahie/1140593147?ean=9781648955907',
+                                    booksamillion: 'https://www.booksamillion.com/p/Essence-Life/Jennifer-Fahie/9781648955907?id=8158356429268',
                                 },
                             }}
                         />

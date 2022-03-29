@@ -59,10 +59,6 @@ const ATB = (props) => {
                             <p>
                             I’ve brought to you 61 years of experiences that you might be able to read and relate to with enjoyment, remembering that there is only one man who holds your future and the key to your success, “Jesus Christ”. Always say “Thank You Jesus”! in good and bad times. I wanted to write a book before retirement, instead I wrote two. Don’t give up on yourself. Be Blessed.
                             </p>
-                            
-                            <p>
-                                What made me want to write? My social life seemed to be a constant prodding toward the literary. Several women (who I will not mention) saw the writer in me before I did. After writing my first two novels, I reflected on the beautiful guiding hands who realized authorship would fill me with pride. It does. 
-                            </p>
 
                             <p>
                                 <span className="author-name">
