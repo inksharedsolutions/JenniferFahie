@@ -104,12 +104,12 @@ const ATB = (props) => {
                                     `,
                                 ebooks: {
                                     stratton: '',
-                                    barnes: '',
+                                    barnes: 'https://www.barnesandnoble.com/w/essence-of-life-jennifer-fahie/1140316556?ean=9781648954818',
                                     amazon: 'https://www.amazon.com/Essence-Life-Poetry-Motion-II-ebook/dp/B09HXXPSGN/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1634323890&sr=8-1',
                                 },
                                 paperback: {
                                     amazon: 'https://www.amazon.com/Essence-Life-Poetry-Motion-II/dp/1648955908/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1634323890&sr=8-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/essence-of-life-jennifer-fahie/1140593147?ean=9781648955907',
+                                    barnes: 'https://www.barnesandnoble.com/w/essence-of-life-jennifer-fahie/1140316555?ean=9781648955914',
                                     booksamillion: 'https://www.booksamillion.com/p/Essence-Life/Jennifer-Fahie/9781648955907?id=8158356429268',
                                 },
                             }}
